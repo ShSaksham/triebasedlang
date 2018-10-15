@@ -1,2 +1,3 @@
 # triebasedlang
 Trie Based Language Translation
+In today’s world billions of bytes of data needs to be stored and retrieved when the need arises. So how do these giants such as Google, Facebook, Wikipedia, etc. store so much data and retrieve them within milliseconds. This is problem is tackled by using a very unique form of tree data structure known as TRIES. Trie is an efficient information retrieval data structure. Using trie, search complexities can be brought to optimal limit. In this, we are using tries to translate a word to a different language with highly reduced time complexity of O(l+1); l being the length of the word.
